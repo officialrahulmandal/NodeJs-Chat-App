@@ -3,9 +3,9 @@
 
 Clone the Repo. using the following command in your terminal .
 
-``` git clone https://github.com/officialrahulmandal/nodejsWebApp.git ```
+``` https://github.com/officialrahulmandal/NodeJs-Chat-App.git ```
 
-now go into the nodejsWebApp directory by using the following command
+now go into the NodeJs-Chat-App directory by using the following command
 
 ``` cd NodeJs-Chat-App ```
 
